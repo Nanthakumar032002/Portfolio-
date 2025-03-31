@@ -2,8 +2,8 @@ import crypto from '../src/assets/images/cryptoimg2.jpg'
 import Netflix from '../src/assets/images/netflix-img.webp'
 import crud from '../src/assets/images/crud-img.webp'
 import todo from '../src/assets/images/to-do-2.png'
-import property from '../src/assets/images/property-img.jpg'
-import ecommerce from '../src/assets/images/e-commerce.webp'
+import property from '../src/assets/images/property-img.avif'
+import ecommerce from '../src/assets/images/e-commerce.avif'
 const logotext = "NANTHA KUMAR";
 const meta = {
     title: "Nantha",
@@ -14,7 +14,7 @@ const introdata = {
     title: "I’m Nantha",
     animated: {
         first: "MERN Developer",
-        // second: "software Tester",
+        second: "Front-end Developer",
         third: "I code cool websites",
     },
     description:'Building scalable and dynamic web solutions with the power of MERN.Transforming ideas into seamless digital experiences.',

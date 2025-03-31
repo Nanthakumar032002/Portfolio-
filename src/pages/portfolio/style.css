@@ -44,7 +44,9 @@
     opacity: 0;
     border: 1px solid black;
 }
-
+.view-project{
+    text-decoration: none;
+}
 .po_item .content {
     opacity: 0;
     transition-delay: 1s;

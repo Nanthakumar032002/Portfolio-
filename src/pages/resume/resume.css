@@ -1,0 +1,29 @@
+.download-resume{
+    padding:10px 20px !important;
+    position:fixed !important;
+    font-size: 15px !important;
+}
+.resume-img {
+      max-width: 135%;
+      border-radius: 5px;
+}
+@media (max-width:769px) {
+    .download-resume{
+        padding: 6px 10px !important;
+        font-size: 12px !important;
+    }
+    .resume-img {
+        max-width: 100%;
+        border-radius: 5px;
+  }
+}
+@media (max-width:600px) {
+    .download-resume{
+        position: relative !important;
+        padding: 6px 10px !important;
+        font-size: 12px !important;
+    }
+    .resume-container{
+        padding: 0px !important;
+    }
+}
