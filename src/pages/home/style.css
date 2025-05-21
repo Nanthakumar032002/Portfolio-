@@ -233,6 +233,28 @@ section {
 }
 @media (max-width:1024px) {
     .intro_sec .text{
-        margin-left: 40px;
+        margin-left: 30px;
+    }
+}
+@media (max-width:500px) {
+    .intro_sec .text h1{
+        font-size: 18px !important;
+    }
+    .intro_btn-action{
+        padding: 0px !important;
+    }
+    h2{
+        font-size: 20px;
+    }p{
+        font-size: 13px;
+    }
+    #button_p,#button_h{
+        font-size: 10px;
+    }
+    .intro_sec .text{
+        margin-left: 0px;
+    }
+    .intro_sec .h_bg-image{
+        margin-bottom: 0px;
     }
 }
