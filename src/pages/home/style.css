@@ -231,4 +231,8 @@ section {
     line-height: 1.3;
     color: var(--text-color)
 }
-
+@media (max-width:1024px) {
+    .intro_sec .text{
+        margin-left: 40px;
+    }
+}
